@@ -1,4 +1,4 @@
-# zoegabor
+# hanagabor
 
-A website for Zoe.
+A website for Hana.
 
